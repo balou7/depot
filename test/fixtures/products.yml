@@ -2,12 +2,18 @@
 
 one:
   title: MyString
-  description: MyText
-  image_url: MyString
+  description: MyText1
+  image_url: rails.png
   price: 9.99
 
 two:
   title: MyString
-  description: MyText
-  image_url: MyString
+  description: MyText2
+  image_url: rails.png
   price: 9.99
+
+ruby:
+  title: Programming Ruby 1.9
+  description: blah blah
+  image_url: 7apps.jpg
+  price: 49.50
